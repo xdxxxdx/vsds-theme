@@ -14,12 +14,13 @@
 }
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html{
-    font-family:sans-serif;
+    font-family:Flanders Art Sans,sans-serif;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%
 }
 body{
-    margin:0
+    margin:0;
+    color:#333332;
 }
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{
     display:block
@@ -171,14 +172,14 @@ input,select,textarea,button{
     line-height:inherit
 }
 body{
-    font-family:"Lato",BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
+    font-family:Flanders Art Sans,sans-serif;
     font-size:14px;
     line-height:1.5;
-    color:#fff;
+    color:#333332;
     background-color:#fff
 }
 a{
-    color:#fff;
+    color:#333332;
     text-decoration:none
 }
 a:hover{
@@ -227,7 +228,7 @@ details:not([open])>*:not(summary){
 kbd{
     display:inline-block;
     padding:3px 5px;
-    font:11px "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+    font:11px Flanders Art Sans,sans-serif;
     line-height:10px;
     color:#ffc515;
     vertical-align:middle;
@@ -4239,11 +4240,11 @@ p.explain .minibutton{
     padding-left:276px
 }
 .addons-wrap{
-    background-color:#14171a
+    background-color:#ffc515;
 }
 .addons-wrap .status{
     cursor:pointer;
-    background-color:#1b1f23
+    background-color:#ffc515;
 }
 .addons-wrap .status .branch .fa{
     color:#fff
