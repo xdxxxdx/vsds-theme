@@ -372,7 +372,7 @@ pre{
     opacity:.8
 }
 .btn{
-    color:#24292e;
+    color:#ffe615;
     background-color:#fafbfc;
     border-color:rgba(27,31,35,.15);
     box-shadow:0 1px 0 rgba(27,31,35,.04),inset 0 1px 0 rgba(255,255,255,.25);
@@ -723,7 +723,7 @@ pre{
     font-size:12px;
     font-weight:600;
     line-height:20px;
-    color:#24292e;
+    color:#ffe615;
     vertical-align:middle;
     background-color:#fff;
     border:1px solid rgba(27,31,35,.15);
@@ -756,7 +756,7 @@ label{
     padding:5px 12px;
     font-size:14px;
     line-height:20px;
-    color:#24292e;
+    color:#ffe615;
     vertical-align:middle;
     background-color:#fff;
     background-repeat:no-repeat;
@@ -1346,7 +1346,7 @@ p.explain{
     color:#586069
 }
 p.explain strong{
-    color:#24292e
+    color:#ffe615
 }
 p.explain .octicon{
     margin-right:5px;
@@ -1411,7 +1411,7 @@ p.explain .minibutton{
     margin-left:-1px;
     font-size:14px;
     line-height:20px;
-    color:#24292e;
+    color:#ffe615;
     cursor:pointer;
     border:1px solid #e1e4e8
 }
@@ -1659,7 +1659,7 @@ p.explain .minibutton{
     display:block;
     padding:5px 0 0;
     clear:both;
-    color:#24292e
+    color:#ffe615
 }
 .markdown-body span.align-center{
     display:block;
@@ -5334,7 +5334,7 @@ html[dir=rtl] .fa-arrow-circle-right:before{
     background-color:#f1f8ff !important
 }
 .bg-gray-dark{
-    background-color:#24292e !important
+    background-color:#ffe615 !important
 }
 .bg-gray{
     background-color:#f6f8fa !important
@@ -5430,10 +5430,10 @@ html[dir=rtl] .fa-arrow-circle-right:before{
     background-color:#2f363d !important
 }
 .color-gray-9{
-    color:#24292e !important
+    color:#ffe615 !important
 }
 .bg-gray-9{
-    background-color:#24292e !important
+    background-color:#ffe615 !important
 }
 .color-blue-0{
     color:#f1f8ff !important
@@ -9346,7 +9346,7 @@ html[dir=rtl] .fa-arrow-circle-right:before{
 }
 .text-emphasized{
     font-weight:600;
-    color:#24292e
+    color:#ffe615
 }
 .list-style-none{
     list-style:none !important
