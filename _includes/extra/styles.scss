@@ -1,13 +1,13 @@
 :root{
-    --toc-1: #e6e9eb;
-    --toc-2: #ccd2d8;
-    --toc-3: #b3bcc4;
-    --toc-4: #9aa5b1;
-    --toc-5: #e6e9eb;
+    --toc-1: #ffc515;
+    --toc-2: #ffe615;
+    --toc-3: #ffe8152d;
+    --toc-4: #c2b222;
+    --toc-5: #ffc515;
     --toc-6: #ccd2d8;
     --toc-7: #b3bcc4;
     --toc-8: #9aa5b1;
-    --toc-9: #e6e9eb;
+    --toc-9: #ffc515;
     --toc-10: #ccd2d8;
     --toc-11: #b3bcc4;
     --toc-12: #9aa5b1
@@ -65,7 +65,7 @@ h1{
     margin:.67em 0
 }
 mark{
-    background-color:#ff0;
+    background-color:#ffc515;
     color:#1b1f23
 }
 small{
@@ -229,7 +229,7 @@ kbd{
     padding:3px 5px;
     font:11px "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
     line-height:10px;
-    color:#ffe615;
+    color:#ffc515;
     vertical-align:middle;
     background-color:#fafbfc;
     border:solid 1px #d1d5da;
@@ -4274,11 +4274,11 @@ p.explain .minibutton{
 }
 .header{
     color:#fff;
-    background:yellow
+    background:#ffc515
 }
 .header input{
     border-radius:50px;
-    border:1px solid yellow;
+    border:1px solid #ffc515;
     font-size:80%
 }
 .title{
