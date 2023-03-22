@@ -65,7 +65,7 @@ h1{
     margin:.67em 0
 }
 mark{
-    background-color:rgb(43, 43, 34);
+    background-color:#ff0;
     color:#1b1f23
 }
 small{
@@ -178,7 +178,7 @@ body{
     background-color:#fff
 }
 a{
-    color:yellow;
+    color:#0366d6;
     text-decoration:none
 }
 a:hover{
@@ -941,8 +941,7 @@ input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{
     height:32px;
     padding-right:24px;
     background-color:#fff;
-    background-image:url("data:image/png;
-    base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAMAAACzvE1FAAAADFBMVEUzMzMzMzMzMzMzMzMKAG/3AAAAA3RSTlMAf4C/aSLHAAAAPElEQVR42q3NMQ4AIAgEQTn//2cLdRKppSGzBYwzVXvznNWs8C58CiussPJj8h6NwgorrKRdTvuV9v16Afn0AYFOB7aYAAAAAElFTkSuQmCC");
+    background-image:url("data:image/png");
     background-repeat:no-repeat;
     background-position:right 8px center;
     background-size:8px 10px;
