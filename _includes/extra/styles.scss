@@ -4108,7 +4108,7 @@ p.explain .minibutton{
     padding-left:12px
 }
 .toctree>ul>.toc:not(.current)>a:hover{
-    background:rgba(255,255,255,.1)
+    background:#ffc515;
 }
 .toctree>ul>.toc:not(.current)>a:active{
     background:#1b557a
@@ -4117,7 +4117,7 @@ p.explain .minibutton{
     color:#404040
 }
 .toctree>ul .toc.current a:hover{
-    background:rgba(255,255,255,.1)
+    background:#333332;
 }
 .toctree>ul .toc.current a.current{
     font-weight:bold;
