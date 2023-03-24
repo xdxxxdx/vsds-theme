@@ -8,6 +8,15 @@
 }
 
 @font-face {
+  font-family: "Flander";
+  font-weight: $font-weight-normal;
+  font-style: normal;
+  font-display: block;
+  src: url("fonts/FlandersArtSans-Regular.woff2") format("woff2"),
+    url("fonts/FlandersArtSans-Regular.woff") format("woff");
+}
+
+@font-face {
   font-family: "Lato";
   font-weight: $font-weight-normal;
   font-style: italic;
