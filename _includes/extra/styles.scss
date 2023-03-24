@@ -36,11 +36,14 @@
     }
     .toctree a:hover{
         color:#ffc515;
-        background:#333332;
+        background:#ffc515;
         padding:.5em
     }
-    .addons {
-        background-color:#ffc515;         
+
+    //addons
+
+    .addons{
+        background-color:#ffc515;
     }
     .addons-wrap{
         background-color:#ffc515;
@@ -55,6 +58,22 @@
     .addons-wrap .status .branch .name{
         color:#28a745
     }
-    .addons-wrap .status .branch .version{
-        color:#ffc515
+    .addons-wrap .status:active{
+        background:#ffc515;
     }
+    .addons-wrap .addons{
+        color:gray;
+        background:#ffc515;
+    }
+    .addons-wrap .addons dl{
+        margin:0
+    }
+    .addons-wrap .addons dd{
+        display:inline-block
+    }
+    .addons-wrap .addons dd a{
+        display:inline-block;
+        padding:6px;
+        color:#fff
+    }
+    
