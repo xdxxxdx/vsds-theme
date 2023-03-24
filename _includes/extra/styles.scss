@@ -17,8 +17,44 @@
   
     }
 
-    .addons {
+    .sidebar{
+        color:#404040;
+        background:#ffc515;
+    }
+    .sidebar a{
+        text-decoration:none
+    }
+    .sidebar li{
+        list-style:none
+    }
+    .sidebar .version{
+        color:#333332
+    }
+    .toctree a{
+        color:#333332;
+        padding:.5em
+    }
+    .toctree a:hover{
         color:#ffc515;
-    
-       
+        background:#333332;
+        padding:.5em
+    }
+    .addons {
+        background-color:#ffc515;         
+    }
+    .addons-wrap{
+        background-color:#ffc515;
+    }
+    .addons-wrap .status{
+        cursor:pointer;
+        background-color:#ffc515;
+    }
+    .addons-wrap .status .branch .fa{
+        color:#fff
+    }
+    .addons-wrap .status .branch .name{
+        color:#28a745
+    }
+    .addons-wrap .status .branch .version{
+        color:#ffc515
     }
