@@ -12,3 +12,22 @@
     --toc-11: #ffc41562;
     --toc-12: #ffc41562;
 }
+
+addons {
+    color: #ffc515;
+
+    dl {
+      margin: 0;
+    }
+
+    dd {
+      display: inline-block;
+
+      a {
+        display: inline-block;
+        padding: 6px;
+        color: $theme-white;
+      }
+    }
+  }
+}
